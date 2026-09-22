@@ -1,4 +1,4 @@
-#Adrishya
+**Adrishya**
 
 Adrishya is an AI-powered assistive smart cap designed to help visually impaired people better understand their surroundings, navigate safely, and move more independently.
 
@@ -68,6 +68,6 @@ Voice guidance
 
 The initial development and testing are being carried out using a laptop and webcam, with the system intended to later be adapted to portable hardware.
 
-Project Status
+**Project Status**
 
 Adrishya is currently under development. The core perception foundation is being developed first, followed by depth estimation, tracking, risk assessment, safe-path planning, navigation, and the final wearable integration.
