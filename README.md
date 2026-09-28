@@ -28,6 +28,9 @@ https://scene-sentiments-stream.lovable.app/?utm_id=97760_v0_s00_e0_tv4&fbclid=P
 
 2nd page 
 https://pixel-perfect-canvas-1889.lovable.app
+
+# PPT
+https://docs.google.com/presentation/d/1BR7BUg0_Oc7K92X8vWx6qLfdLr_1Hl97/edit?usp=drive_link&ouid=106253580806319344547&rtpof=true&sd=true
 ```sh
 git clone <this-repository-url>
 cd <repository-name>
